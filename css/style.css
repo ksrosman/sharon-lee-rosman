@@ -1,0 +1,15 @@
+@import url(https://fonts.googleapis.com/css?family=Lora);
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans);
+
+p {
+	font-size: 100%;
+	line-height: 1.5em;
+	font-family:'Josefin Sans', sans-serif;
+}
+
+h1, h2, h3 {
+	line-height: 1.5em;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+/* text-align: */
